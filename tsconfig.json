@@ -7,7 +7,7 @@
     "experimentalDecorators": true,
     "removeComments": false,
     "noImplicitAny": false,
-    "outDir" : "js"
+    "outDir" : "jsout"
   },
   "exclude": [
     "node_modules"

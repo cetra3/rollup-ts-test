@@ -1,8 +1,4 @@
-export class Hero {
-  public name: string;
-  public secretIdentity: string;
-  constructor(name, secretIdentity) {
-    this.name = name;
-    this.secretIdentity = secretIdentity;
-  }
+export interface Hero {
+  name: string;
+  secretIdentity: string;
 }

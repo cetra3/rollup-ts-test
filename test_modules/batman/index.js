@@ -1,6 +1,4 @@
-export class Batman {
-    constructor() {
-        this.name = "Batman";
-        this.secretIdentity = "Bruce Wayne";
-    }
+export var Batman = {
+  name: "Batman",
+  secretIdentity: "Bruce Wayne";
 }

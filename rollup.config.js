@@ -6,6 +6,7 @@ export default {
   dest: 'bundle/output.js',
 
   plugins: [
-    typescript()
+    typescript(),
+    babel()
   ]
 }
