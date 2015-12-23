@@ -1,0 +1,7 @@
+{
+  "name": "batman",
+  "version": "1.0.0",
+  "description": "Batman class",
+  "repository": "https://github.com/cetra3/rollup-ts-test",
+  "license": "MIT"
+}

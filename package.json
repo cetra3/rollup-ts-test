@@ -1,0 +1,18 @@
+{
+  "name": "rollup-ts-test",
+  "version": "1.0.0",
+  "description": "Test plugin for rollup typescript and external dependencies",
+  "repository": "https://github.com/cetra3/rollup-ts-test",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015-rollup": "^1.0.0",
+    "rollup-plugin-babel": "^2.2.0",
+    "rollup-plugin-typescript": "github:cetra3/rollup-plugin-typescript#include-ts-resolver",
+    "typescript": "^1.7.5"
+  },
+  "dependencies": {
+    "batman": "file:test_modules/batman",
+    "heroes": "file:test_modules/heroes",
+    "wonderwoman": "file:test_modules/wonderwoman"
+  }
+}

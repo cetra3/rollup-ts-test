@@ -1,0 +1,7 @@
+{
+  "name": "heroes",
+  "version": "1.0.0",
+  "description": "Test Heroes class",
+  "repository": "https://github.com/cetra3/rollup-ts-test",
+  "license": "MIT"
+}
